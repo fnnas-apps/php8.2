@@ -1,10 +1,12 @@
 appname               = php8.2
 version               = 1.0.0
-display_name          = display-name
-desc                  = app-description
+display_name          = PHP 8.2
+desc                  = Popular general-purpose scripting language for web development
 platform              = x86
 source                = thirdparty
-maintainer            = your-name
-distributor           = your-name
+maintainer            = The PHP Group
+maintainer_url        = https://www.php.net
+distributor           = evan755
+distributor_url       = https://github.com/fnnas-apps/php8.2
 desktop_uidir         = ui
 desktop_applaunchname = php8.2.Application
