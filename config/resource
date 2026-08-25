@@ -1,0 +1,12 @@
+{
+  "data-share": {
+    "shares": [
+      {
+        "name": "php8.2"
+      },
+      {
+        "name": "php8.2/data"
+      }
+    ]
+  }
+}
